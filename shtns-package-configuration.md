@@ -1,4 +1,4 @@
-## install the "shtns" package locally as follow;
+# install the "shtns" package locally as follow
 
 ### step1: First source "base" conda envirolment
 ```maekdown
